@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unsted.h>
+#include <unistd.h>
 /**
  * main- a program that prints a line to the the standard error
  * Return: 1 (Success)
